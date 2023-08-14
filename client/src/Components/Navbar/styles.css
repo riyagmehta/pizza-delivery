@@ -1,0 +1,19 @@
+.custom-navbar {
+	background-color:#30b3b3;
+}
+
+.nav-text {
+	color: white;
+	font-size: x-large;
+	font-style: italic;
+	text-shadow: #0b0b0b;
+}
+#dropdownMenuButton1:active {
+	background-color: rgb(35, 207, 255) !important;
+}
+#dropdownMenuButton1:hover {
+	background-color: rgb(31, 184, 226) !important;
+}
+.dropdown-item:active {
+	background-color:#30b3b3;
+}
